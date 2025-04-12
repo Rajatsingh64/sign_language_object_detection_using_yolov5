@@ -257,5 +257,5 @@ fabric.properties
 Data\all_images\
 Data\CollectedImages\
 Data\final_data\
-Data\
-yolov5\
+Data/
+yolov5/
